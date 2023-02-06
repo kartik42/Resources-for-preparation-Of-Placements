@@ -87,6 +87,9 @@
 
 - [JAVA](https://www.pepcoding.com/resources/)
 
+- [JAVA](https://youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop)
+
+
 - [PYTHON](https://www.youtube.com/playlist?list=PLqcJACtjWm_Xk_9rMh4lQLOfW2E6SAxsF)
 
 <hr>
